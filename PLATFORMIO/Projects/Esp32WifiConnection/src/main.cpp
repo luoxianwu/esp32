@@ -1,7 +1,7 @@
 #include <Arduino.h>
 #include <WiFiMulti.h>
 
-#define WIFI_SSID "TP-Link_A6B0" # Ensure you connect to the 2.4 GHz network , 5G won't work  
+#define WIFI_SSID "TP-Link_A6B0" // Ensure you connect to the 2.4 GHz network , 5G won't work  
 #define WIFI_PSWD "Wi%416%Fi"
 
 WiFiMulti wifiMulti;
